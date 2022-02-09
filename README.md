@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/javaSkill" target="_blank">Philip</a></h1>
+<h1 align="center">Hi there, I'm <a href="https://t.me/javaSkill" target="_blank">Philip!</a></h1>
 <h3 align="center">Junior Java Developer from Belarus by</h3>
 
 <!--

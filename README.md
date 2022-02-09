@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/javaSkill" target="_blank">Philip</a> 
-<img src="https://github.com/Philip287/Philip287/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://t.me/javaSkill" target="_blank">Philip</a></h1>
 <h3 align="center">Junior Java Developer from Belarus by</h3>
 
 <!--

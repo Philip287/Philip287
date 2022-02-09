@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/javaSkill" target="_blank">Philip</a> 
 <img src="https://github.com/Philip287/Philip287/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java student from Belerus by🇺</h3>
+<h3 align="center">Junior Java Developer from Belarus by</h3>
 
 <!--
 **Philip287/Philip287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
